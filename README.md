@@ -1,4 +1,4 @@
-*U EUN SOL*
+*************U EUN SOL*************
 
 
 ![sol's github stats](https://github-readme-stats.vercel.app/api?username=YuEunSol&show_icons=true&theme=graywhite)
