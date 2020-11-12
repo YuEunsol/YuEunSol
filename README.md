@@ -1,7 +1,7 @@
 **U EUN SOL**
 
 
-*“Don’t worry if it doesn’t work right. If everything did, you’d be out of a job.”  **-Eric Steven Raymond** *
+<span style = "color:yellow">*“Don’t worry if it doesn’t work right. If everything did, you’d be out of a job.”  -Eric Steven Raymond*</span>
 
 
 ![sol's github stats](https://github-readme-stats.vercel.app/api?username=YuEunSol&show_icons=true&theme=graywhite)
