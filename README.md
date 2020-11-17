@@ -3,8 +3,8 @@
   <b>**U EUN SOL**</b><br>
 
 
-  >*“Don’t worry if it doesn’t work right. If everything did, you’d be out of a job.”*
-  *-Eric Steven Raymond*
+  <b>>*“Don’t worry if it doesn’t work right. If everything did, you’d be out of a job.”*</b><br>
+  <b>*-Eric Steven Raymond*</b><br>
 
 
   <img width="460" height="300" src= https://user-images.githubusercontent.com/66423580/99405968-b1050f80-2930-11eb-9b49-7e108e5bb1e4.png>
