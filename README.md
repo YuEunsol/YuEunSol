@@ -1,6 +1,8 @@
 
 <p align="center">
-  <b> U EUN SOL </b><br>
+  <b> __________________________________________________________________<br>  
+  <b> U EUN SOL </b><br>  
+  <b> __________________________________________________________________<br>
 </p>
 
 >*“Don’t worry if it doesn’t work right. If everything did, you’d be out of a job.”*<br>
