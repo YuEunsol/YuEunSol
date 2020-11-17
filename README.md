@@ -1,7 +1,14 @@
 
 <p align="center">
-  <b> __________________________________________________________________<br><br><br><br>
-  <b> U EUN SOL </b><br><br><br>
+  <b> __________________________________________________________________<br>
+  <b>      *                                             *              <br>
+  <b>                                *                                  <br>
+  <b>                 *                                             *   <br>
+  <b>                                             *                     <br>
+  <b> U EUN SOL </b><br>
+  <b>                                   *                               <br>
+  <b>       *                                                  *        <br>
+  <b>                      *                         *                  <br>
   <b> __________________________________________________________________<br><br><br>
   <b>“Don’t worry if it doesn’t work right. If everything did, you’d be out of a job.”<br>
   <b>-Eric Steven Raymond<br><br><br><br>
