@@ -3,7 +3,7 @@
 
 >*“Don’t worry if it doesn’t work right. If everything did, you’d be out of a job.”*
 >*-Eric Steven Raymond*
-![image](https://user-images.githubusercontent.com/66423580/99405569-4227b680-2930-11eb-8cbb-a8fca6c23700.png)
+![image](https://user-images.githubusercontent.com/66423580/99405834-8a46d900-2930-11eb-8c56-af9c1cf39f65.png)
 
 ![sol's github stats](https://github-readme-stats.vercel.app/api?username=YuEunSol&show_icons=true&theme=graywhite)
 
