@@ -1,10 +1,12 @@
-**U EUN SOL**
-
-
->*“Don’t worry if it doesn’t work right. If everything did, you’d be out of a job.”*
-*-Eric Steven Raymond*
-
 <p align="center">
+
+  <b>**U EUN SOL**</b><br>
+
+
+  >*“Don’t worry if it doesn’t work right. If everything did, you’d be out of a job.”*
+  *-Eric Steven Raymond*
+
+
   <img width="460" height="300" src= https://user-images.githubusercontent.com/66423580/99405968-b1050f80-2930-11eb-9b49-7e108e5bb1e4.png>
   <br><br>
   <b>https://github-readme-stats.vercel.app/api?username=YuEunSol&show_icons=true&theme=graywhite</b><br>
