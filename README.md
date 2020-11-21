@@ -14,12 +14,12 @@
   <b>-Eric Steven Raymond<br><br><br><br><br><br><br>
   <img width="460" height="300" src= https://user-images.githubusercontent.com/66423580/99405968-b1050f80-2930-11eb-9b49-7e108e5bb1e4.png>
   <br><br>
-  <b>https://github-readme-stats.vercel.app/api?username=YuEunSol&show_icons=true&theme=graywhite</b><br>
+  
 </p>
 
+<!--<b>https://github-readme-stats.vercel.app/api?username=YuEunSol&show_icons=true&theme=graywhite</b><br>
 
-
-
+-->
 
 <!--
 **YuEunsol/YuEunSol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
