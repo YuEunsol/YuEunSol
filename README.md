@@ -1,7 +1,8 @@
 
 <p align="center">
+  
   <b> __________________________________________________________________<br>
-    •　.·  °　　°　•　　　　  　&emsp;✯✸　　.　.　&emsp;　  *&emsp;　　　&emsp;　°·&emsp;·<br>　
+<(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧    •　.·  °　　°　•　　　　  　&emsp;✯✸　　.　.　&emsp;　  *&emsp;　　　&emsp;　°·&emsp;·<br>　
 •　*　°　　　　&emsp;　　　　　  　　　&emsp;　.°　&emsp;　　　.°&emsp;　*　   　　　&emsp;　<br>
 ·　·   &emsp; 　　°　*&emsp;✵·°　&emsp;　·.•　*　°　&emsp;.*  ✵··    &emsp;✶*°　&emsp;✵　&emsp;*★°　    　　·.•　<br>
 *　°　&emsp;　　·　　　°　  &emsp;　✵··　·　·　&emsp;  　　&emsp;　°•✸　&emsp;　　<br>
